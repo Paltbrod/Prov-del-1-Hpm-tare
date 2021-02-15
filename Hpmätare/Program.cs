@@ -15,7 +15,7 @@ namespace Hpmätare
             Console.WriteLine("[=====]100%");
             Console.WriteLine("Om du lyckas dö med så mycket Hp så vet jag inte vad jag ska säga men jag tror på dig");
 
-            while (hp! > 0)
+            while (hp! > 0) // så länge hp inte är mindre en 0 så körs loopen
             {
                 int dmg = (1);
                 hp = hp - dmg;
