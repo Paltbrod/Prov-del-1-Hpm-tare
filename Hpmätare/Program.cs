@@ -6,6 +6,7 @@ namespace Hpmätare
     {
         static void Main(string[] args)
         {
+            //Tycker programmet som helhet funkar fine även om jag vet att jag skulle kunna göra det mer effektivt men grundideen funkar ändå som den ska.
             int hp = (5);
 
 
